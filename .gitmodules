@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "netSEM"]
+	path = netSEM
+	url = https://github.com/cran/netSEM
+	shallow = true
+	registered = true
